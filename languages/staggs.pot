@@ -1,0 +1,3435 @@
+# Copyright (C) 2024 Staggs - Product Configurator Toolkit
+# This file is distributed under the same license as the Staggs - Product Configurator Toolkit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Staggs - Product Configurator Toolkit 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/staggs\n"
+"POT-Creation-Date: 2024-06-29 10:49:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-10-30 18:30+1UTC\n"
+
+#: admin/class-staggs-about.php:48 admin/class-staggs-about.php:49
+msgid "About Staggs"
+msgstr ""
+
+#: admin/class-staggs-about.php:70
+msgid "Welcome to Staggs!"
+msgstr ""
+
+#: admin/class-staggs-about.php:71
+msgid "The go-to product configurator toolkit for WordPress and WooCommerce."
+msgstr ""
+
+#: admin/class-staggs-about.php:72
+msgid "Please follow the steps below to set up your first product configurator."
+msgstr ""
+
+#: admin/class-staggs-about.php:77
+msgid "Follow the interactive module"
+msgstr ""
+
+#: admin/class-staggs-about.php:93 admin/fields/carbon/attribute.php:78
+msgid "Note"
+msgstr ""
+
+#: admin/class-staggs-about.php:93
+msgid "Some features may not be visible to you because the screens have been taken from the PRO version"
+msgstr ""
+
+#: admin/class-staggs-about.php:98
+msgid "Get started in 3 steps"
+msgstr ""
+
+#: admin/class-staggs-about.php:106
+msgid "Create attributes"
+msgstr ""
+
+#: admin/class-staggs-about.php:107
+msgid "Create attributes to add options for the product configurator."
+msgstr ""
+
+#: admin/class-staggs-about.php:108
+msgid "Create attribute"
+msgstr ""
+
+#: admin/class-staggs-about.php:116
+msgid "Build your configurable product"
+msgstr ""
+
+#: admin/class-staggs-about.php:117
+msgid "The configurable products consists of the attributes, displayed in various ways using the attribute view templates."
+msgstr ""
+
+#: admin/class-staggs-about.php:119 admin/class-staggs-about.php:121
+msgid "Add a new configurable product"
+msgstr ""
+
+#: admin/class-staggs-about.php:130
+msgid "Apply a configurator template"
+msgstr ""
+
+#: admin/class-staggs-about.php:131
+msgid "Finally, apply a custom template to the product configurator to make it completely yours!"
+msgstr ""
+
+#: admin/class-staggs-about.php:132
+msgid "Add a template"
+msgstr ""
+
+#: admin/class-staggs-about.php:139
+msgid "A message for page builders / block theme users:"
+msgstr ""
+
+#: admin/class-staggs-about.php:140
+msgid "If you are using a page builder or a block theme, please note that you have to display the configurator using the shortcode block in your page/product template. Otherwise the configurator will not show up."
+msgstr ""
+
+#: admin/class-staggs-about.php:141
+msgid "Learn more"
+msgstr ""
+
+#: admin/class-staggs-about.php:146
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-staggs-about.php:148
+msgid "Learn everything about the product configurator in our documentation pages."
+msgstr ""
+
+#: admin/class-staggs-about.php:149
+msgid "Go to docs"
+msgstr ""
+
+#: admin/class-staggs-about.php:153
+msgid "FAQ"
+msgstr ""
+
+#: admin/class-staggs-about.php:155
+msgid "Find answers yourselves through reading frequently asked questions of our customers."
+msgstr ""
+
+#: admin/class-staggs-about.php:156
+msgid "Go to FAQ"
+msgstr ""
+
+#: admin/class-staggs-about.php:163
+msgid "Support"
+msgstr ""
+
+#: admin/class-staggs-about.php:165
+msgid "Need help? Fill out the support form and we will get back to you as soon as possible."
+msgstr ""
+
+#: admin/class-staggs-about.php:166
+msgid "Get help"
+msgstr ""
+
+#: admin/class-staggs-about.php:177 admin/class-staggs-dashboard.php:551
+#: admin/class-staggs-features.php:100
+msgid "Do more with Staggs PRO"
+msgstr ""
+
+#: admin/class-staggs-about.php:178 admin/class-staggs-dashboard.php:552
+#: admin/class-staggs-features.php:101
+msgid "With our PRO features you can truly create stunning product configurators, with support for 3D models, stock management, shared configuration links and more."
+msgstr ""
+
+#: admin/class-staggs-about.php:180 admin/class-staggs-dashboard.php:554
+#: admin/class-staggs-features.php:103
+msgid "Start 14-day free trail"
+msgstr ""
+
+#: admin/class-staggs-about.php:181 admin/class-staggs-dashboard.php:80
+#: admin/class-staggs-dashboard.php:555 admin/class-staggs-features.php:60
+#: admin/class-staggs-features.php:104
+msgid "Buy PRO"
+msgstr ""
+
+#: admin/class-staggs-acf-fields.php:32
+msgid "Staggs Settings"
+msgstr ""
+
+#: admin/class-staggs-acf-fields.php:33 admin/class-staggs-admin.php:360
+#: admin/class-staggs-admin.php:367 admin/fields/carbon/settings.php:51
+msgid "Settings"
+msgstr ""
+
+#: admin/class-staggs-admin.php:193
+msgid "Migrate successful! Your Staggs admin fields now consist of ACF fields. Enjoy!"
+msgstr ""
+
+#: admin/class-staggs-admin.php:222
+msgid "Staggs + ACF"
+msgstr ""
+
+#: admin/class-staggs-admin.php:224
+msgid "We noticed you have ACF PRO installed. Supercharge your Staggs admin interface with the ACF PRO fields structure. <a href=\"https://staggs.app/staggs-and-acf-pro/\" target=\"_blank\">Learn more</a>"
+msgstr ""
+
+#: admin/class-staggs-admin.php:227
+msgid "Important! Always make a back-up before migration (just in case something goes south)."
+msgstr ""
+
+#: admin/class-staggs-admin.php:232
+msgid "Migrate to ACF fields"
+msgstr ""
+
+#: admin/class-staggs-admin.php:233
+msgid "No thanks"
+msgstr ""
+
+#: admin/class-staggs-admin.php:276 admin/class-staggs-admin.php:277
+msgid "Add Media"
+msgstr ""
+
+#. translators: brand link
+
+#: admin/class-staggs-admin.php:305
+msgid "Thank you for creating with %1$s! Please rate %2$s to help spread the word!"
+msgstr ""
+
+#: admin/class-staggs-admin.php:309
+msgid "and"
+msgstr ""
+
+#: admin/class-staggs-admin.php:329 admin/class-staggs-dashboard.php:50
+#: admin/class-staggs-dashboard.php:51
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-staggs-admin.php:335 admin/class-staggs-dashboard.php:136
+#: admin/fields/carbon/settings.php:160 includes/class-staggs-attribute.php:44
+msgid "Attributes"
+msgstr ""
+
+#: admin/class-staggs-admin.php:344 includes/class-staggs-product.php:42
+msgid "Products"
+msgstr ""
+
+#: admin/class-staggs-admin.php:352 includes/class-staggs-theme.php:42
+msgid "Templates"
+msgstr ""
+
+#: admin/class-staggs-admin.php:375 admin/class-staggs-analytics-table.php:38
+#: admin/class-staggs-analytics-table.php:39
+#: admin/class-staggs-analytics.php:45 admin/class-staggs-analytics.php:46
+#: admin/class-staggs-analytics.php:55 admin/class-staggs-analytics.php:56
+#: admin/class-staggs-analytics.php:105 admin/class-staggs-analytics.php:129
+msgid "Analytics"
+msgstr ""
+
+#: admin/class-staggs-admin.php:383 admin/class-staggs-features.php:39
+#: admin/class-staggs-features.php:40
+msgid "Free vs PRO"
+msgstr ""
+
+#: admin/class-staggs-admin.php:457
+msgid "Configurator"
+msgstr ""
+
+#: admin/class-staggs-admin.php:459
+msgid "Enable Staggs Product Configurator"
+msgstr ""
+
+#: admin/class-staggs-analytics-table.php:241
+#: includes/class-staggs-product.php:34 includes/class-staggs-product.php:36
+msgid "Product"
+msgstr ""
+
+#: admin/class-staggs-analytics-table.php:242
+msgid "Configuration"
+msgstr ""
+
+#: admin/class-staggs-analytics-table.php:243
+msgid "Items sold"
+msgstr ""
+
+#: admin/class-staggs-analytics-table.php:244
+msgid "Orders"
+msgstr ""
+
+#: admin/class-staggs-analytics-table.php:245
+msgid "Total sales"
+msgstr ""
+
+#: admin/class-staggs-analytics-table.php:280
+msgid "No analytics data available for selected date(s)."
+msgstr ""
+
+#: admin/class-staggs-analytics-table.php:282
+msgid "No analytics data available yet."
+msgstr ""
+
+#: admin/class-staggs-analytics.php:109
+msgid "Note: WooCommerce has to be installed and active for the Analytics to work."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:69 admin/class-staggs-features.php:67
+msgid "PRO"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:77
+msgid "The Staggs Dashboard"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:84
+msgid "Quick links"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:85
+msgid "Welcome to the product configurator toolkit by Staggs. Here you can find quick links to get you started"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:91
+msgid "Follow the tutorial"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:98 admin/class-staggs-dashboard.php:103
+msgid "Manage products"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:110
+msgid "Configure settings"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:116
+msgid "Manage attributes"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:122
+msgid "Manage templates"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:129
+msgid "View analytics"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:137
+msgid "Easily find modules you can use to create configurator attributes"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:142
+msgid "Set attribute option prices"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:143
+msgid "Charge additional costs for your configurator attribute options"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:146 admin/class-staggs-dashboard.php:157
+#: admin/class-staggs-dashboard.php:168 admin/class-staggs-dashboard.php:180
+#: admin/class-staggs-dashboard.php:192 admin/class-staggs-dashboard.php:203
+#: admin/class-staggs-dashboard.php:227 admin/class-staggs-dashboard.php:254
+#: admin/class-staggs-dashboard.php:265 admin/class-staggs-dashboard.php:276
+#: admin/class-staggs-dashboard.php:287 admin/class-staggs-dashboard.php:298
+#: admin/class-staggs-dashboard.php:322 admin/class-staggs-dashboard.php:333
+#: admin/class-staggs-dashboard.php:344 admin/class-staggs-dashboard.php:387
+#: admin/class-staggs-dashboard.php:398 admin/class-staggs-dashboard.php:422
+#: admin/class-staggs-dashboard.php:433 admin/class-staggs-dashboard.php:444
+#: admin/class-staggs-dashboard.php:455 admin/class-staggs-dashboard.php:466
+#: admin/class-staggs-dashboard.php:477 admin/class-staggs-dashboard.php:496
+#: admin/class-staggs-dashboard.php:507 admin/class-staggs-dashboard.php:518
+#: admin/class-staggs-dashboard.php:529 admin/class-staggs-dashboard.php:540
+msgid "Read article"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:153
+msgid "Duplicating attributes"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:154
+msgid "Speed up the process of attribute creation using a duplicate post plugin"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:164
+msgid "Translating attributes"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:165
+msgid "Make your attributes available in multiple languages"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:176
+msgid "WooCommerce linked options"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:177
+msgid "Link your configurator attribute options to WooCommerce products"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:188
+msgid "Set option stock quantities"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:189
+msgid "Configure the availability of individual options"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:199
+msgid "Import/Export"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:200
+msgid "Manage the attributes data with CSV import export tool"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:212
+msgid "Appearance"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:214 admin/class-staggs-dashboard.php:410
+msgid "Read full article"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:217
+msgid "Control the appearance of your configurators"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:223
+msgid "Configurator shortcode display"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:224
+msgid "Using a block theme or page builder? Learn how to add the configurator to your page using the shortcode."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:235
+msgid "Configurator display"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:236
+msgid "Learn how to activate and display the product configurator on your WordPress site"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:239
+msgid "Default page"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:242
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:250
+msgid "Configurator templates"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:251
+msgid "Customize the main layout of the configurator by setting a configurator template. Note: a configurator theme is required."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:261
+msgid "Theme and colors"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:262
+msgid "Customize the configurator theme and colors."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:272 admin/fields/carbon/theme.php:510
+#: admin/fields/carbon/theme.php:512
+msgid "Fonts"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:273
+msgid "Change the configurator template font families."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:283 admin/fields/carbon/settings.php:98
+msgid "Icons"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:284
+msgid "Change the default configurator icons used in the template."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:294 admin/fields/carbon/theme.php:865
+#: admin/fields/carbon/theme.php:867
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:295
+msgid "Modify configurator appearance using custom CSS rules."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:308
+msgid "Image gallery"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:310 admin/class-staggs-dashboard.php:360
+msgid "View all articles"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:313
+msgid "Manage your configurator gallery settings"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:318
+msgid "Stackable images"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:319
+msgid "Create the perfect product preview with stackable image layers."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:329
+msgid "Multi view layout"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:330
+msgid "Learn how to showcase the product from multiple angles."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:340 admin/class-staggs-dashboard.php:394
+msgid "Custom text and images"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:341
+msgid "Learn how to show custom text and images inside the image gallery."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:354
+msgid "3D models"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:357
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:364
+msgid "Manage your 3D configurator gallery settings"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:369
+msgid "Update model materials"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:370
+msgid "Dynamically change 3D model appearance with custom colors or textures."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:373
+msgid "View textures"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:376
+msgid "View colors"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:383
+msgid "Hide 3D model parts"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:384
+msgid "Learn how to control the 3D model parts visibility."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:395
+msgid "Learn how to apply custom text and images on the 3D model texture."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:408
+msgid "Configurator builder"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:413
+msgid "Explore ways to build your product configurator"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:418
+msgid "Collapsible attributes"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:419
+msgid "Mark single attributes as collapsible."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:429
+msgid "Collapsible sections"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:430
+msgid "Create collapsible attribute sections."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:440
+msgid "Tabbed attributes"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:441
+msgid "Create a tabgroup of various attributes of the same type."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:451
+msgid "Multi step form"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:452
+msgid "Create a multi step configurator form."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:462
+msgid "Conditional logic"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:463
+msgid "Conditionally display attributes or options in the configurator form."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:473
+msgid "Advanced price calculations"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:474
+msgid "Define custom formula's to calculate the configurator product total price."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:486
+msgid "Form actions"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:487
+msgid "Manage your configurator form actions"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:492
+msgid "Send email"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:493
+msgid "Open up email with predefined list of configuration options"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:503
+msgid "Request quote"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:504
+msgid "Request a quote by linking configurator to a form."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:514 includes/class-staggs-theme.php:125
+msgid "Download PDF"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:515
+msgid "Saves active configuration as PDF to computer."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:525
+msgid "Generate sharable link"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:526
+msgid "Generates a link which can be shared with other people."
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:536
+msgid "Add to wishlist"
+msgstr ""
+
+#: admin/class-staggs-dashboard.php:537
+msgid "Saves the current product configuration to the customer account wishlist."
+msgstr ""
+
+#: admin/class-staggs-features.php:59
+msgid "Staggs Free vs PRO"
+msgstr ""
+
+#: admin/class-staggs-features.php:65
+msgid "Features"
+msgstr ""
+
+#: admin/class-staggs-features.php:66
+msgid "Free"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:19
+msgid "Attribute items"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:20
+msgid "Attribute item"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:23
+msgid "Attribute details"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:26
+#: vendor/htmlburger/carbon-fields/core/Container/Container.php:741
+msgid "General"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:27 admin/fields/carbon/theme.php:861
+#: includes/class-staggs-attribute.php:243
+msgid "Title"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:29
+msgid "This title as shown in the product configurator."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:30 admin/fields/carbon/theme.php:29
+#: admin/fields/carbon/theme.php:30 admin/fields/carbon/theme.php:52
+#: includes/class-staggs-attribute.php:244 includes/class-staggs-theme.php:34
+#: includes/class-staggs-theme.php:36 includes/class-staggs-theme.php:91
+msgid "Template"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:32
+msgid "Select how your attributes will be displayed."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:35
+msgid "Dropdown"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:36
+msgid "Options list"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:37
+msgid "Cards"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:38
+msgid "Image swatches"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:39
+msgid "Color swatches"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:40
+msgid "Button group"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:41
+msgid "Tickboxes"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:42
+msgid "True / False"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:43
+msgid "Text field"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:44
+msgid "Numeric field"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:45
+msgid "Measurements"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:47 includes/class-staggs-attribute.php:245
+msgid "Type"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:49
+msgid "Select attribute type to be used in the template. <a href=\"https://staggs.app/attribute-support-table\" target=\"_blank\">View attribute support table</a>"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:51 admin/fields/carbon/attribute.php:683
+#: admin/fields/carbon/builder.php:47 admin/fields/carbon/theme.php:34
+#: includes/class-staggs-theme.php:116
+msgid "Image"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:52
+msgid "Input"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:53 admin/fields/carbon/attribute.php:398
+msgid "Color"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:54 admin/fields/carbon/attribute.php:278
+#: admin/fields/carbon/settings.php:59 admin/fields/carbon/theme.php:516
+msgid "Font Family"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:55
+msgid "URL"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:57 admin/fields/carbon/attribute.php:109
+msgid "Required field"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:58
+msgid "Select if the attribute is required or optional."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:60 admin/fields/carbon/attribute.php:112
+msgid "Optional"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:61 admin/fields/carbon/attribute.php:113
+msgid "Required"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:63
+msgid "Dropdown placeholder"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:64
+msgid "Optionally override placeholder text. Defaults to \"- field label -\""
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:69
+msgid "Items"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:71
+msgid "We support max. 30 options per attribute. Please install and migrate to ACF PRO if you want more options."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:75
+msgid "Label"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:77
+msgid "Main attribute label"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:79
+msgid "Note is displayed underneath the label"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:85
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:86 admin/fields/carbon/settings.php:57
+#: admin/fields/carbon/theme.php:859
+msgid "Note: please keep image sizes lower than 2 MB to maintain the configurator performance."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:95
+msgid "Input Type"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:97
+msgid "Select your input type "
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:110
+msgid "Select if the input field is required or optional."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:119
+msgid "Page URL"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:120
+msgid "Enter full URL of page you want to link to."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:125
+msgid "Enable Preview"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:126
+msgid "If enabled, the input value/image will be displayed/updated in the product preview."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:131
+msgid "Main Images"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:134
+msgid "Choose main images to show when this step option is selected. Note: please keep image sizes lower than 2 MB to maintain the configurator performance."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:143
+msgid "Preview Top Position"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:144 admin/fields/carbon/attribute.php:222
+msgid "Set default preview position from top. Use CSS Units."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:156
+msgid "Preview Left Position"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:157 admin/fields/carbon/attribute.php:238
+msgid "Set default preview position from left. Use CSS Units."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:169
+msgid "Preview Width"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:170 admin/fields/carbon/attribute.php:254
+msgid "Optionally set a preview width. Use CSS Units."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:185
+msgid "Preview overflow"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:186
+msgid "Set preview overflow behaviour."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:188
+msgid "Hide text"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:189
+msgid "Fit text within container"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:205
+msgid "Change preview settings for mobile"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:206
+msgid "Change preview settings for mobile devices."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:221
+msgid "Preview Top (Mobile)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:237
+msgid "Preview Left (Mobile)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:253
+msgid "Preview Width (mobile)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:272
+msgid "Font Stylesheet URL"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:273
+msgid "Link to Google Fonts or Adobe Typekit font stylesheet."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:279
+msgid "Font family as defined in CSS (e.g. \"Helvetica\", sans-serif\")"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:284
+msgid "Font Weight"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:285
+msgid "Font weight as numeric value (e.g. 400, 700, 900)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:291
+msgid "Preview Reference Selector"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:292
+msgid "Enter corresponding CSS property values."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:302
+msgid "Field key"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:303
+msgid "Unique identifier for given field. Can be used for price calculations or input value previews."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:312
+msgid "Range increments"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:313
+msgid "Amount of increments per step. Defaults to 1."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:323
+msgid "Date format"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:324
+msgid "Set a date format for the date picker. Defaults to mm/dd/yy."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:333
+msgid "Field min"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:334
+msgid "Minimum text length, date or numeric value for given field."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:339
+msgid "Field max"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:340
+msgid "Maximum text length, date or numeric value for given field."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:345
+msgid "Field unit"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:346
+msgid "Optionally display unit for given field (e.g. cm, inch, gallon, liters)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:356
+msgid "Placeholder"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:357
+msgid "Optionally set a placeholder for the input."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:366
+msgid "Value"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:367
+msgid "Optionally set a default value for the input."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:377
+msgid "Show datepicker icon"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:382
+msgid "Icon can be managed under Settings."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:387
+msgid "Show datepicker inline"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:388
+msgid "Replaces the input field with the inline datepicker."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:399
+msgid "Pick a color."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:413 admin/fields/carbon/attribute.php:658
+msgid "Price type"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:414
+msgid "Items marked with option support user selection fields. Items marked with input support user input fields."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:421
+msgid "This combination of attribute type and price type is not supported."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:431
+msgid "Price per unit"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:432
+msgid "Define fixed price per unit value. Important! Units should match."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:440
+msgid "Price"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:441
+msgid "Additional cost for this attribute item. Leave empty for no additional cost."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:446
+msgid "Sale Price"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:447
+msgid "Discounted additional cost for this attribute item. Must be lower than price."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:459
+msgid "Presentation"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:461
+msgid "Short description"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:462
+msgid "Short description as shown below the title"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:463
+msgid "Long Description (Panel):"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:464
+msgid "Extensive description that will be displayed in popout panel."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:465
+msgid "Custom class"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:466
+msgid "Optionally enter custom HTML class(es) for the attribute"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:467
+msgid "Shared group name"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:468
+msgid "Share attribute options with other attributes with same name."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:474
+msgid "Show field info"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:475
+msgid "Show min/max field value info label underneath input fields."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:477
+msgid "Display field info labels"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:478
+msgid "Hide field info labels"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:484
+msgid "Style"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:485
+msgid "Modify the style setting for individual attributes display"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:487
+msgid "Inherit from theme"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:488 admin/fields/carbon/theme.php:121
+msgid "Rounded"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:489 admin/fields/carbon/theme.php:122
+msgid "Squared"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:491
+msgid "Display thumbnails"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:492
+msgid "Display thumbnails in options"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:494
+msgid "Show thumbnails"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:495
+msgid "Hide thumbnails"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:502
+msgid "Cards width"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:503
+msgid "Choose to show 2 or 3 cards next to each other."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:505
+msgid "Two cards per row"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:506
+msgid "Three cards per row"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:512
+msgid "Card template"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:513
+msgid "Choose to show image inside card or not."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:515
+msgid "Show image inside card"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:516
+msgid "Show image on top of card"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:525
+msgid "Display summary"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:526
+msgid "Display summary of selected option"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:528
+msgid "Show summary"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:529
+msgid "Hide summary"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:536
+msgid "Enable tick all options"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:537
+msgid "Display button to (de)select all options at once"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:539
+msgid "Hide tick all option"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:540
+msgid "Show tick all option"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:546
+msgid "Tick all options label"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:547
+msgid "Label to display in tick all option."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:555
+msgid "Display option price"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:556
+msgid "Optionally choose to hide prices for the customer."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:558
+msgid "Show prices"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:559
+msgid "Hide prices"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:561
+msgid "Choose swatch size"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:562
+msgid "Choose the size of your swatches"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:564 admin/fields/carbon/theme.php:478
+msgid "Default"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:565
+msgid "Small"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:566
+msgid "Regular"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:567
+msgid "Medium"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:568
+msgid "Large"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:575
+msgid "Swatch border position"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:576
+msgid "Choose to show border inside or outside when checked"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:578
+msgid "Outside"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:579
+msgid "Inside"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:586
+msgid "Display inline swatch label"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:587
+msgid "Shows label of swatch inline"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:589
+msgid "Hide inline labels"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:590
+msgid "Show inline labels"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:591
+msgid "Show inline notes"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:598
+msgid "Display swatch tooltip"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:599
+msgid "Show tooltip with value on hover"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:601
+msgid "Show tooltip"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:602
+msgid "Hide tooltip"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:609
+msgid "Tooltip display"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:610
+msgid "Choose what is included in the tooltip"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:612
+msgid "Show label and price"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:613
+msgid "Show icon, label and price"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:614
+msgid "Show label, note and price"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:615
+msgid "Show icon, label, note and price"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:625 admin/fields/carbon/attribute.php:629
+msgid "Enable zoom function"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:626
+msgid "Show zoom icon on hover to enlarge the image"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:628
+msgid "No zoom function"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:636
+msgid "Button view"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:637
+msgid "Select how you want the item to be displayed"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:639
+msgid "Button"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:640
+msgid "Toggle"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:646
+msgid "Button add text"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:647
+msgid "Enter text when option is not selected."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:652
+msgid "Button remove text"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:653
+msgid "Enter text when option is selected."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:659
+msgid "Choose matrix to pick a price based on two values (pro)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:669
+msgid "Formula"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:670
+msgid "Describe formula of field keys for price calculation (e.g. A + B * C)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:679 includes/class-staggs-theme.php:90
+msgid "Gallery type"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:680
+msgid "Define configurator gallery type."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:685
+msgid "Image Layer Order:"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:686
+msgid "Higher numbers will be displayed on top."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:691
+msgid "Display Images On Slides:"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:693
+msgid "Slides the main image will appear on. Defaults to first slide (1)."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:698
+msgid "Make Slide Active:"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:699
+msgid "Index of product image slide to show when viewing this step."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:704
+msgid "Gallery Preview Reference:"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:705
+msgid "Gallery preview reference. Use for text or image preview updates (supports comma separated values)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:710
+msgid "Gallery Preview Properties:"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:711
+msgid "Enter preview CSS properties, like color, width or height (supports comma separated values)"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:716
+msgid "Gallery Preview Bundle:"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:717
+msgid "This will bundle all input previews together in the first defined position."
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:719
+msgid "No"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:720
+msgid "Yes"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:729
+msgid "Gallery Preview Height:"
+msgstr ""
+
+#: admin/fields/carbon/attribute.php:730
+msgid "Optionally define the allowed height of all input previews together. Use CSS units."
+msgstr ""
+
+#: admin/fields/carbon/builder.php:19
+msgid "Steps"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:20
+msgid "Step"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:23 admin/fields/carbon/builder.php:24
+msgid "New"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:27 admin/fields/carbon/builder.php:74
+msgid "Tabs"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:28
+msgid "Tab"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:35
+msgid "Staggs Configurator Builder"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:40
+msgid "Configurator Template"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:41
+msgid "Choose your Staggs configurator template."
+msgstr ""
+
+#: admin/fields/carbon/builder.php:44 admin/fields/carbon/theme.php:32
+msgid "Configurator Type"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:45
+msgid "Choose your configurator type"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:50
+msgid "Product Configurator Min Price"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:51
+msgid "Optionally set fixed price (0.00) or enter comma separated list of attributes"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:52
+msgid "Product Configurator Max Price"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:53
+msgid "Fixed price or list. Control display format in Staggs -> Settings -> WooCommerce"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:55
+msgid "Product Attributes"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:58
+msgid "Attribute separator title"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:59
+msgid "Title as displayed above attributes"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:60
+msgid "Make attribute separator collapsible"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:61 admin/fields/carbon/builder.php:114
+msgid "Will add collapsible icon when enabled"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:62 admin/fields/carbon/builder.php:116
+msgid "Choose default state"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:63 admin/fields/carbon/builder.php:117
+msgid "Choose to show or hide attribute group by default"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:65 admin/fields/carbon/builder.php:119
+msgid "Opened"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:66 admin/fields/carbon/builder.php:120
+msgid "Collapsed"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:75
+msgid "Define the attribute tabs and link to the attribute"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:78
+msgid "Attribute Tab Title"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:80
+msgid "Title as displayed in the tab"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:82
+msgid "Tab Make Slide Active"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:84
+msgid "Index of product image slide to show when clicking this tab"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:86
+msgid "Tab linked attribute"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:87
+msgid "Select your attribute group that will be shown when tab is active."
+msgstr ""
+
+#: admin/fields/carbon/builder.php:93
+msgid "Select attribute"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:94
+msgid "Select your attribute group"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:98
+msgid "Hide attribute"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:99
+msgid "Hides the attribute in configurator when enabled"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:101
+msgid "Set default attribute option"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:102
+msgid "Allows you to change the default attribute option for the given attribute"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:104
+msgid "Select default option"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:105
+msgid "Select your attribute default option"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:113
+msgid "Make attribute collapsible"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:128
+msgid "Custom HTML"
+msgstr ""
+
+#: admin/fields/carbon/builder.php:129
+msgid "Enter any HTML contents"
+msgstr ""
+
+#: admin/fields/carbon/product.php:18
+msgid "Product Details"
+msgstr ""
+
+#: admin/fields/carbon/product.php:21
+msgid "Product gallery"
+msgstr ""
+
+#: admin/fields/carbon/product.php:22
+msgid "Add product gallery images. Note: please keep image sizes lower than 2 MB to maintain the configurator performance."
+msgstr ""
+
+#: admin/fields/carbon/product.php:23
+msgid "Regular price"
+msgstr ""
+
+#: admin/fields/carbon/product.php:24
+msgid "Product price. Numeric value expected (1999.00)"
+msgstr ""
+
+#: admin/fields/carbon/product.php:26
+msgid "Sale price"
+msgstr ""
+
+#: admin/fields/carbon/product.php:27
+msgid "Product sale price. Numeric value expected (1999.00)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:19 admin/fields/carbon/settings.php:215
+msgid "Price settings"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:24
+msgid "Currency position"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:25
+msgid "Select the position of the currency symbol"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:28
+msgid "Left with a space"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:29 admin/fields/carbon/theme.php:116
+#: admin/fields/carbon/theme.php:350
+msgid "Left"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:30
+msgid "Right with a space"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:31 admin/fields/carbon/theme.php:352
+msgid "Right"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:33
+msgid "Currency symbol"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:34
+msgid "Optionally enter your currency symbol"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:36
+msgid "Thousand separator"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:38
+msgid "Decimal separator"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:40
+msgid "Number of decimals"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:55
+msgid "Brand"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:56
+msgid "Company Logo"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:58
+msgid "Company Name"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:60 admin/fields/carbon/theme.php:517
+msgid "If you need a custom font, you should enter the Font Family name here."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:61
+msgid "Footer Scripts"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:62
+msgid "If you need to add scripts to your footer (like Google Fonts), you should enter them here."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:65 admin/fields/carbon/theme.php:341
+msgid "Labels"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:67
+msgid "Fullscreen button label"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:68 public/staggs-template-functions.php:377
+msgid "Toggle fullscreen mode"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:70
+msgid "Camera button label"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:71 public/staggs-template-functions.php:396
+msgid "Capture configuration image"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:73
+msgid "Reset button label"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:74 public/staggs-template-functions.php:474
+msgid "Reset configuration"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:76 admin/fields/carbon/theme.php:733
+msgid "Product total label"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:79
+msgid "Required configuration error message"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:80
+msgid "Please fill out all required fields!"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:81
+msgid "Optionally override required error message."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:83
+msgid "Invalid configuration error message"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:84
+msgid "Please make sure all fields are filled out correctly!"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:85
+msgid "Optionally override invalid error message."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:88
+msgid "Required configuration field message"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:89
+msgid "This field is required."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:90
+msgid "Optionally override required field message."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:92
+msgid "Invalid configuration field message"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:93
+msgid "This field is invalid."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:94
+msgid "Optionally override invalid field message."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:99
+msgid "Gallery Arrow Left"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:101
+msgid "Gallery Arrow Left (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:103
+msgid "Gallery Arrow Right"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:105
+msgid "Gallery Arrow Right (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:107
+msgid "Select Arrow Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:109
+msgid "Select Arrow Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:111
+msgid "Checkmark Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:113
+msgid "Checkmark Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:115
+msgid "Panel Close Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:117
+msgid "Panel Close Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:119
+msgid "Close Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:121
+msgid "Close Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:123
+msgid "Description Plus Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:125
+msgid "Description Plus Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:127
+msgid "Description Minus Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:129
+msgid "Description Minus Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:131
+msgid "Info Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:133
+msgid "Info Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:135
+msgid "Popup Back Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:137
+msgid "Popup Back Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:139
+msgid "Separator Collapse Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:141
+msgid "Separator Collapse Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:143
+msgid "Fullscreen Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:145
+msgid "Fullscreen Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:147
+msgid "Fullscreen Close Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:149
+msgid "Fullscreen Close Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:151
+msgid "Calendar Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:153
+msgid "Calendar Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:155
+msgid "Image Zoom Icon"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:157
+msgid "Image Zoom Icon (Dark Theme)"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:162
+msgid "Disable dropdown placeholders"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:163
+msgid "Disable dropdown placeholders for non-required dropdowns."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:165
+msgid "Disable click for URL options"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:166
+msgid "Removes the default click handler for URL options so you can handle the link your own way."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:168
+msgid "Included Option Price label"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:170
+msgid "Show sign for additional prices"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:171
+msgid "Displays a plus sign before the option price to indicate additional charges (+$99)."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:173
+msgid "Trim price decimals on full prices"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:174
+msgid "Display prices that ends on \",00\" in a format of \",-\""
+msgstr ""
+
+#: admin/fields/carbon/settings.php:177
+msgid "Show price difference only for option prices"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:178
+msgid "Dynamically update difference in price options based on current selected option"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:180
+msgid "Display individual error messages for each attribute"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:181
+msgid "Adds error messages to all invalid fields instead of one general alert."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:183
+msgid "Hide duplicate attribute titles in summary widget"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:184
+msgid "If multi select is active, show attribute title for first option only."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:186
+msgid "Include button controls in number inputs"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:187
+msgid "Shows plus and minus button icons for number input fields."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:190
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:191
+msgid "Price prefix"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:192
+msgid "Optionally display price prefix label on archives. E.g. From:"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:195
+msgid "Configurator loop add to cart button label"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:198
+msgid "Price format"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:199
+msgid "Optionally override price display on archives. E.g. {min_price} - {max_price}. Available placeholders: {price}, {sale_price}, {min_price}, {max_price}"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:201
+msgid "Exclude product base price in totals"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:202
+msgid "Exclude WooCommerce product price from total price calculation."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:204
+msgid "Show prices for logged in users only"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:205
+msgid "Hide pricings for website visitors. Show prices to logged in customers"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:207
+msgid "Redirect visitors to login page"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:208
+msgid "Redirects visitors to the login page when clicking the main configuration button."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:210
+msgid "Price tax suffix"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:211
+msgid "Inc. VAT"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:212
+msgid "Optionally display price tax suffix in configurator totals."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:216
+msgid "Checkout"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:217
+msgid "Save attribute option prices to order items"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:218
+msgid "Saves the individual option prices to the attributes in the order item for later reference."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:219
+msgid "Product image width"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:222
+msgid "Enter the width value of the preview image in pixels (px)."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:223
+msgid "Product image height"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:226
+msgid "Enter the height value of the preview image in pixels (px)."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:227
+msgid "Display generated product image on checkout page"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:228
+msgid "Displays product image in table on checkout page when enabled. Applies to all products."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:229
+msgid "Display generated product image on order pages"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:230
+msgid "Displays product image in tables on order pages when enabled. Applies to all products."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:231
+msgid "Display generated product image in order emails"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:232
+msgid "Displays product image in WooCommerce order emails when enabled. Applies to all products."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:234
+msgid "Advanced"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:235
+msgid "Enable inline edit links in attribute titles"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:236
+msgid "Display edit links in attribute title in configurator for site administrators to edit attributes quickly."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:237
+msgid "Analytics Order statusses"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:238
+msgid "Define the order statusses that analytics should display."
+msgstr ""
+
+#: admin/fields/carbon/settings.php:241 admin/fields/carbon/theme.php:869
+msgid "Custom Styles"
+msgstr ""
+
+#: admin/fields/carbon/settings.php:243
+msgid "If you need to add custom styling, you should enter the CSS here."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:26
+msgid "Staggs Configurator Template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:37
+msgid "Staggs Configurator template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:39
+msgid "Staggs Product Configurator Template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:40
+msgid "WooCommerce Page Template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:41
+msgid "Attributes Only Template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:43
+msgid "Set to WooCommerce Page Template to use your theme's product page or default WooCommerce Product Page template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:45
+msgid "Disable default Staggs configurator styles"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:64
+msgid "Configurator Popup Button Text"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:70
+msgid "Show contents of popup inline on mobile"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:71
+msgid "Disable sticky elements in popup on mobile view (natural scroll)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:78
+msgid "Set Included Option Label"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:80
+msgid "Included Option Text"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:86
+msgid "Disable default option selection on load"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:87
+msgid "Disables the automatic selection of the first available option on configurator load"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:90 admin/fields/carbon/theme.php:92
+msgid "Template options"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:94
+msgid "Header and Footer display"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:96
+msgid "Hide header and footer"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:97
+msgid "Show header and footer"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:98
+msgid "Show header only"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:99
+msgid "Show footer only"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:107
+msgid "Layout"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:109
+msgid "Image Preview Right"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:110
+msgid "Image Preview Left"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:113
+msgid "Text Align"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:115 admin/fields/carbon/theme.php:351
+msgid "Center"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:119
+msgid "Borders"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:123
+msgid "Circular"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:126
+msgid "Description type"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:128
+msgid "Panel"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:129
+msgid "Popup"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:130
+msgid "Tooltip"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:134
+msgid "Show Company Logo"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:135
+msgid "Show company logo in options panel"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:136
+msgid "Displays the company logo above the title."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:146
+msgid "Disable Staggs floating add to cart notices"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:147
+msgid "Disable WooCommerce Product Price"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:148
+msgid "Disable updating the single WooCommerce Product Price"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:149
+msgid "Updates the default WooCommerce Single Product price to match the total configuration price by default."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:154
+msgid "Disable WooCommerce Product Meta (SKU, Category)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:155
+msgid "Disable Staggs WooCommerce Product Tabs override"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:156
+msgid "Enable this option if you do not want the tabs to be relocated."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:157
+msgid "Disable WooCommerce Product Tabs"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:158
+msgid "Disable WooCommerce Template Override"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:159
+msgid "Only applicable when you want to output the configurator contents using shortcode(s)."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:161
+msgid "Show close button"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:167
+msgid "Back page URL"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:168
+msgid "Configure logo / back button URL. Defaults to home URL."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:184
+msgid "Show close button confirm message"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:189
+msgid "Close button confirm message"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:196 admin/fields/carbon/theme.php:197
+msgid "Gallery"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:199
+msgid "Template height"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:201
+msgid "Force full height of screen on desktop"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:202
+msgid "Use image height as reference for configurator height"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:209
+msgid "Block mobile gallery image overflow"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:211
+msgid "Make Gallery Image Sticky"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:212
+msgid "Keep image preview in view when scrolling down the options list"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:218
+msgid "Gallery Display on Mobile Devices"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:220
+msgid "Fixed"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:221
+msgid "Inline"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:229
+msgid "Fixed mobile header offset"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:230
+msgid "Enter offset of mobile header in pixels. (Enter numeric value)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:240
+msgid "Preview Type"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:242
+msgid "Stacked Image Preview"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:243
+msgid "Single Image Preview"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:250
+msgid "Display product featured image"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:251
+msgid "Use the product featured image as the base layer for the preview."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:260
+msgid "Generate Active Configuration Image for Cart"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:261
+msgid "Product featured image will be shown by default."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:262
+msgid "Store Configuration Previews in Uploads Folder for Later Access"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:269 admin/fields/carbon/theme.php:270
+msgid "Gallery background"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:272
+msgid "Add Background Image"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:281
+msgid "Background Image"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:284
+msgid "Select one or more background images. Note: please keep image sizes lower than 2 MB to maintain the configurator performance."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:296
+msgid "Background Image Size"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:298
+msgid "Contain"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:299
+msgid "Cover"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:306
+msgid "Stretch Background Image Behind Options"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:317
+msgid "Capture Background Image In Export"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:330 admin/fields/carbon/theme.php:331
+msgid "Gallery controls"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:333
+msgid "Display button to show gallery fullscreen"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:334
+msgid "Display button to capture configuration image"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:335
+msgid "Display button to reset configuration"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:337
+msgid "Display Gallery Thumbnails"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:339
+msgid "None"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:340
+msgid "Thumbnails"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:348
+msgid "Gallery Thumbnails Align"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:359
+msgid "Gallery Thumbnails Position"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:361
+msgid "Inside main image"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:362
+msgid "Underneath main image"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:375
+msgid "Gallery Thumbnails Layout"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:377
+msgid "Single row of images"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:378
+msgid "Image grid"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:395
+msgid "Gallery Thumbnail Labels"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:404
+msgid "Preview arrow controls"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:416 admin/fields/carbon/theme.php:418
+msgid "Colors"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:420 includes/class-staggs-theme.php:92
+msgid "Color theme"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:426
+msgid "Primary Color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:427
+msgid "Options panel background color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:433
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:434
+msgid "Image view background color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:440
+msgid "Tertiary Color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:441
+msgid "Options cards background color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:446
+msgid "Heading Color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:452
+msgid "Text Color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:458
+msgid "Icon Theme"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:460
+msgid "Light Icons"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:461
+msgid "Dark Icons"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:468
+msgid "Accent Color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:470
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:474
+msgid "Spacing"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:476
+msgid "Step Density"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:479
+msgid "Compact"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:482
+msgid "Configurator form width"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:483
+msgid "Optionally override default form options width. Enter CSS units. Defaults to 540px"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:485
+msgid "Configurator form width (tablet)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:486
+msgid "Optionally override default form options width for tablets. Enter CSS units. Defaults to 400px"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:489
+msgid "Configurator form spacing"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:490
+msgid "Optionally override default form options spacing. Enter CSS units. Defaults to 50px"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:492
+msgid "Configurator form spacing (tablet)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:493
+msgid "Optionally override default form options spacing for tablets. Enter CSS units. Defaults to 40px"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:496
+msgid "Attribute spacing top"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:497
+msgid "Optionally override default attribute spacing top. Enter CSS units"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:499
+msgid "Attribute spacing top (mobile)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:500
+msgid "Optionally override default attribute spacing top for mobile. Enter CSS units"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:502
+msgid "Attribute spacing bottom"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:503
+msgid "Optionally override default attribute spacing bottom. Enter CSS units"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:505
+msgid "Attribute spacing bottom (mobile)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:506
+msgid "Optionally override default attribute spacing bottom for mobile. Enter CSS units"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:514
+msgid "Define your own configurator font"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:515
+msgid "This setting overrides the default font settings defined in the Appearance page."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:522
+msgid "Font Scripts"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:523
+msgid "If you need to add scripts to your header (like Google Font scripts), you should enter them here."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:529
+msgid "Disable add to cart button styles"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:530
+msgid "This setting overrides the default Staggs template styles for add to cart button."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:533 admin/fields/carbon/theme.php:535
+msgid "Separator"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:537
+msgid "Separator Template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:545 admin/fields/carbon/theme.php:547
+msgid "Summary"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:549
+msgid "Display summary of selected configuration options"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:550
+msgid "Summary title"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:551
+msgid "Title that is displayed above the selected options list"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:552
+msgid "Your configuration"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:557
+msgid "Summary empty message"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:558
+msgid "Message that appears when no option is selected"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:559
+msgid "No options selected"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:564
+msgid "Summary location"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:565
+msgid "Choose where the summary widget should be displayed"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:567
+msgid "Before configurator totals"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:568
+msgid "After configurator totals"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:569
+msgid "Anywhere using the shortcode"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:575
+msgid "Include attribute option notes in summary"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:576
+msgid "Extend summary details by including option notes"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:581
+msgid "Summary hidden attributes"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:582
+msgid "Optionally enter labels of attributes that should not be included in summary list (comma separated)"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:589 admin/fields/carbon/theme.php:591
+msgid "Configurator button"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:593
+msgid "Configurator Button Type"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:595 includes/class-staggs-theme.php:122
+msgid "Add to Cart"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:596
+msgid "Request Invoice"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:597 includes/class-staggs-theme.php:124
+msgid "Send configuration via email"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:598 includes/class-staggs-theme.php:126
+msgid "No action"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:601
+msgid "Close popup on totals configurator button click"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:602
+msgid "Closes the popup and updates product page details based on configured product instead of adding to cart"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:608
+msgid "Replace cart form with configure button"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:609
+msgid "Replaces the single product page add to cart form with configure button"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:618
+msgid "Configurator Button Text"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:620
+msgid "Hide total button"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:621
+msgid "Hides the total button so no action is involved in the configurator. For configuration purposes only."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:626
+msgid "Email recipient"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:627
+msgid "Optionally set the email adress of the receiver. Defaults to admin email."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:633
+msgid "Email subject"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:634
+msgid "Optionally set a default email subject."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:640
+msgid "Include product title in email body"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:641
+msgid "Includes product title in email contents"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:646
+msgid "Generate configuration image link"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:647
+msgid "Generates a configuration image link to be used in form or email contents."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:653
+msgid "Form page"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:655
+msgid "Page where the form is located (user is redirected to this page)."
+msgstr ""
+
+#: admin/fields/carbon/theme.php:661
+msgid "Make total action button sticky"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:671
+msgid "Make total action button sticky on mobile"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:678 admin/fields/carbon/theme.php:680
+msgid "Configurator price"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:682
+msgid "Configurator Total Price Calculation"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:684
+msgid "Default calculation"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:685
+msgid "Custom calculation"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:687
+msgid "Total Price Formula"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:688
+msgid "Insert custom formula to calculate total price"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:694
+msgid "Display Totals"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:700
+msgid "Total Price Display"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:717
+msgid "Price Display Template"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:750
+msgid "Options total label"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:767
+msgid "Grand total label"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:784
+msgid "Total label"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:794
+msgid "Collapse price summary on mobile"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:795
+msgid "Make price summary collapsible on mobile devices to save space"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:812
+msgid "Configurator extras"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:814
+msgid "Display Product Quantity Input"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:819
+msgid "Product Quantity Input Name"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:820
+msgid "Optionally enter name of input to function as the main product quantity input"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:828
+msgid "Multiply total price by quantity"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:829
+msgid "When checked the total configurator price will be shown as price * quantity"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:835
+msgid "Display sticky add to cart bar"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:843
+msgid "Display USPs in sticky bar"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:849
+msgid "USPs location"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:854
+msgid "Unique Selling Points"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:858
+msgid "Icon"
+msgstr ""
+
+#: admin/fields/carbon/theme.php:871
+msgid "If you need to add custom configurator styling, you should enter the CSS here."
+msgstr ""
+
+#: includes/class-staggs-attribute.php:35
+msgid "Staggs Attributes"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:36
+#: includes/class-staggs-attribute.php:38
+#: includes/class-staggs-attribute.php:242
+msgid "Attribute"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:37 includes/class-staggs-product.php:35
+#: includes/class-staggs-theme.php:35
+msgid "Staggs"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:39
+#: includes/class-staggs-attribute.php:41
+msgid "New attribute"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:40
+msgid "Add new attribute"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:42
+msgid "Edit attribute"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:43
+msgid "View attribute"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:45
+msgid "Search attributes"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:46
+msgid "Parent attribute:"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:47
+msgid "No attributes found."
+msgstr ""
+
+#: includes/class-staggs-attribute.php:48
+msgid "No attributes found in bin."
+msgstr ""
+
+#: includes/class-staggs-attribute.php:79
+#: includes/class-staggs-attribute.php:87
+msgid "Attribute tags"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:80
+msgid "Attribute tag"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:81
+msgid "Search attribute tags"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:82
+msgid "All attribute tags"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:83
+msgid "Edit attribute tag"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:84
+msgid "Update attribute tag"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:85
+msgid "Add new attribute tag"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:86
+msgid "New attribute tag"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:88
+msgid "No attribute tags found."
+msgstr ""
+
+#: includes/class-staggs-attribute.php:89
+msgid "No attribute tags found in bin."
+msgstr ""
+
+#: includes/class-staggs-attribute.php:151
+msgid "Show all templates"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:170
+msgid "Show all types"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:246
+msgid "Tags"
+msgstr ""
+
+#: includes/class-staggs-attribute.php:247 includes/class-staggs-theme.php:94
+msgid "Date"
+msgstr ""
+
+#: includes/class-staggs-formatter.php:42
+#: includes/class-staggs-formatter.php:694
+msgid "Out of stock"
+msgstr ""
+
+#: includes/class-staggs-formatter.php:198
+msgid "Click add row to add your first item."
+msgstr ""
+
+#: includes/class-staggs-formatter.php:203
+msgid "Add row"
+msgstr ""
+
+#: includes/class-staggs-product.php:33
+msgid "Staggs Products"
+msgstr ""
+
+#: includes/class-staggs-product.php:37 includes/class-staggs-product.php:39
+msgid "New product"
+msgstr ""
+
+#: includes/class-staggs-product.php:38
+msgid "Add new product"
+msgstr ""
+
+#: includes/class-staggs-product.php:40
+msgid "Edit product"
+msgstr ""
+
+#: includes/class-staggs-product.php:41
+msgid "View product"
+msgstr ""
+
+#: includes/class-staggs-product.php:43
+msgid "Search products"
+msgstr ""
+
+#: includes/class-staggs-product.php:44
+msgid "Parent product:"
+msgstr ""
+
+#: includes/class-staggs-product.php:45
+msgid "No products found."
+msgstr ""
+
+#: includes/class-staggs-product.php:46
+msgid "No products found in bin."
+msgstr ""
+
+#: includes/class-staggs-theme.php:33
+msgid "Staggs Templates"
+msgstr ""
+
+#: includes/class-staggs-theme.php:37 includes/class-staggs-theme.php:39
+msgid "New template"
+msgstr ""
+
+#: includes/class-staggs-theme.php:38
+msgid "Add new template"
+msgstr ""
+
+#: includes/class-staggs-theme.php:40
+msgid "Edit template"
+msgstr ""
+
+#: includes/class-staggs-theme.php:41
+msgid "View template"
+msgstr ""
+
+#: includes/class-staggs-theme.php:43
+msgid "Search templates"
+msgstr ""
+
+#: includes/class-staggs-theme.php:44
+msgid "Parent template:"
+msgstr ""
+
+#: includes/class-staggs-theme.php:45
+msgid "No templates found."
+msgstr ""
+
+#: includes/class-staggs-theme.php:46
+msgid "No templates found in bin."
+msgstr ""
+
+#: includes/class-staggs-theme.php:93
+msgid "Button type"
+msgstr ""
+
+#: includes/class-staggs-theme.php:116
+msgid "3D model"
+msgstr ""
+
+#: includes/class-staggs-theme.php:118
+msgid "theme"
+msgstr ""
+
+#: includes/class-staggs-theme.php:123
+msgid "Request Quote"
+msgstr ""
+
+#: includes/staggs-functions.php:2075
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/staggs-functions.php:2083
+msgid "File size exceeds the maximum allowed size"
+msgstr ""
+
+#: includes/woocommerce/class-staggs-cart.php:128
+msgid "Sorry, we do not have enough \"%1$s\" in stock to fulfill your order (%2$s available)."
+msgstr ""
+
+#: includes/woocommerce/class-staggs-woocommerce.php:461
+#: includes/woocommerce/class-staggs-woocommerce.php:514
+#: public/class-staggs-public.php:587 public/class-staggs-public.php:606
+msgid "Configure"
+msgstr ""
+
+#: public/class-staggs-public.php:595 public/class-staggs-public.php:614
+msgid "Note: the popup button can only be used in combination with popup template"
+msgstr ""
+
+#: public/class-staggs-public.php:1903
+msgid "Please provide a product ID using the \"product_id\" option or output the shortcode on a product page."
+msgstr ""
+
+#: public/class-staggs-public.php:1915
+msgid "This shortcode can only be used for configurable products. Make sure you have checked the box \"Enable Staggs Product Configurator\"."
+msgstr ""
+
+#: public/partials/cards.php:197 public/partials/options.php:187
+#: public/partials/product.php:124 public/partials/tickboxes.php:144
+#: public/partials/true-false.php:148 public/staggs-template-functions.php:991
+#: public/staggs-template-functions.php:1002
+msgid "Show description"
+msgstr ""
+
+#: public/partials/cards.php:270 public/partials/options.php:256
+#: public/partials/product.php:236 public/partials/tickboxes.php:194
+#: public/staggs-template-functions.php:1109
+msgid "Hide description"
+msgstr ""
+
+#: public/partials/image-upload.php:28
+msgid "No file selected"
+msgstr ""
+
+#: public/partials/image-upload.php:29
+msgid "Browse"
+msgstr ""
+
+#: public/partials/measurements.php:62 public/partials/measurements.php:64
+#: public/partials/text-input.php:117 public/partials/text-input.php:119
+msgid "Min: "
+msgstr ""
+
+#: public/partials/measurements.php:62 public/partials/text-input.php:117
+msgid " and max: "
+msgstr ""
+
+#: public/partials/measurements.php:66 public/partials/text-input.php:121
+msgid "Max: "
+msgstr ""
+
+#: public/partials/product.php:21
+msgid "Add"
+msgstr ""
+
+#: public/partials/product.php:25
+msgid "Remove"
+msgstr ""
+
+#: public/partials/text-input.php:85
+msgid " per character"
+msgstr ""
+
+#: public/partials/text-input.php:117 public/partials/text-input.php:119
+#: public/partials/text-input.php:121
+msgid "characters"
+msgstr ""
+
+#: public/staggs-template-functions.php:281
+msgid "Do you want to exit?"
+msgstr ""
+
+#: public/staggs-template-functions.php:413
+msgid "Add to my configurations"
+msgstr ""
+
+#: public/staggs-template-functions.php:434
+msgid "Download to PDF"
+msgstr ""
+
+#: public/staggs-template-functions.php:457
+msgid "Get configuration link"
+msgstr ""
+
+#: public/staggs-template-functions.php:985
+msgid "Edit"
+msgstr ""
+
+#: public/staggs-template-functions.php:1454
+msgid "Total:"
+msgstr ""
+
+#: public/staggs-template-functions.php:1506
+#: public/staggs-template-functions.php:1573
+msgid "Finish configuration"
+msgstr ""
+
+#: public/staggs-template-functions.php:1514
+#: public/staggs-template-functions.php:1659
+#: public/staggs-template-functions.php:1916
+msgid "Request invoice"
+msgstr ""
+
+#: public/staggs-template-functions.php:1731
+msgid "Your email address"
+msgstr ""
+
+#: public/staggs-template-functions.php:1914
+msgid "Add to cart"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:287
+msgid "The parent must be 'array', 'string' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:316
+msgid "The position of inner blocks must be 'above' or 'below'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:334
+msgid "The template must be an 'array' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:352
+msgid "The template lock must be 'all', 'insert', 'false' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:370
+msgid "The allowed blocks must be an 'array' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:472
+msgid "'render_callback' is required for the blocks."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:476
+msgid "'render_callback' must be a callable."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Theme_Options_Container.php:207
+msgid "Settings saved."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Footer_Scripts_Field.php:20
+msgid "If you need to add scripts to your footer (like Google Analytics tracking code), you should enter them in this box."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Gravity_Form_Field.php:47
+msgid "No form"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Header_Scripts_Field.php:20
+msgid "If you need to add scripts to your header, you should enter them here."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Sidebar_Field.php:74
+msgctxt "sidebar"
+msgid "Add New"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:69
+msgid "Please enter a name for the sidebar."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:72
+msgid "Unknown action attempted."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:102
+msgid "Sidebar with the same ID is already registered."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:112
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:142
+msgid "Failed to update option storing your custom sidebars. Please contact support."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:137
+msgid "Sidebar not found."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:181
+msgid "Add Sidebar"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:182
+msgid "Please enter the name of the new sidebar:"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:183
+msgid "Are you sure you wish to remove this sidebar?"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:414
+msgid "No option names provided"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:425
+msgid "Theme Options updated."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:447
+msgid "Sorry, you are not allowed to read blocks of this post."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:457
+msgid "Sorry, you are not allowed to read blocks as this user."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:478
+msgid "The requested type: ID or URL."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:483
+msgid "The ID / URL of the attachment"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:500
+msgid "The name of the block."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:505
+msgid "The content of the block."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:509
+msgid "ID of the post context."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:540
+msgid "Invalid block."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/common/options-page.php:43
+msgid "Actions"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/common/options-page.php:52
+msgid "Save Changes"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/widget.php:4
+msgid "No options are available for this widget."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Staggs - Product Configurator Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/staggs/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A complete toolkit to build stunning product configurators in WordPress and WooCommerce. Boost sales and increase user engagement."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Staggs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://staggs.app/"
+msgstr ""

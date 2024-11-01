@@ -1,0 +1,10 @@
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Configurator-Layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large-Copy" transform="translate(-1476.000000, -105.000000)">
+            <g id="Group-18" transform="translate(1492.500000, 121.500000) rotate(-180.000000) translate(-1492.500000, -121.500000) translate(1476.000000, 105.000000)">
+                <circle id="Oval" fill="#FFFFFF" cx="16.5" cy="16.5" r="16.5"></circle>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" transform="translate(16.500000, 16.000000) rotate(-180.000000) translate(-16.500000, -16.000000) " points="10 13.5093333 11.532375 12 16.5021667 16.9808 21.467625 12 23 13.5093333 16.5021667 20"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

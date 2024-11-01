@@ -1,0 +1,112 @@
+/* ACF */
+
+.acf-field.editor-css textarea {
+	font-family: monospace !important;
+}
+
+.acf-table label,
+.acf-field .acf-label label {
+	font-size: 13px;
+}
+
+.post-type-sgg_theme .acf-tab-wrap.-left .acf-tab-group li a {
+	font-size: 13px;
+    line-height: 19px;
+    padding: 16px 20px;
+    text-align: left;
+    font-weight: 500;
+}
+
+/* Theme radio inputs */
+
+.acf-field-radio[data-name=sgg_configurator_view] input,
+.acf-field-radio[data-name=sgg_configurator_popup_type] input,
+.acf-field-radio[data-name=sgg_configurator_theme] input,
+.acf-field-radio[data-name=sgg_configurator_arrows] input,
+.acf-field-radio[data-name=sgg_configurator_usp_location] input,
+.acf-field-radio[data-name=sgg_configurator_step_indicator] input,
+.acf-field-radio[data-name=sgg_pdf_layout] input {
+	position: absolute;
+	visibility: hidden;
+}
+
+.acf-field-radio[data-name=sgg_configurator_view] img,
+.acf-field-radio[data-name=sgg_configurator_popup_type] img,
+.acf-field-radio[data-name=sgg_configurator_theme] img,
+.acf-field-radio[data-name=sgg_configurator_arrows] img,
+.acf-field-radio[data-name=sgg_configurator_usp_location] img,
+.acf-field-radio[data-name=sgg_configurator_step_indicator] img,
+.acf-field-radio[data-name=sgg_pdf_layout] img {
+	padding: 8px;
+	border: 2px solid #fff;
+}
+
+.acf-field-radio[data-name=sgg_configurator_view] input:checked+img,
+.acf-field-radio[data-name=sgg_configurator_popup_type] input:checked+img,
+.acf-field-radio[data-name=sgg_configurator_theme] input:checked+img,
+.acf-field-radio[data-name=sgg_configurator_arrows] input:checked+img,
+.acf-field-radio[data-name=sgg_configurator_usp_location] input:checked+img,
+.acf-field-radio[data-name=sgg_configurator_step_indicator] input:checked+img,
+.acf-field-radio[data-name=sgg_pdf_layout] input:checked+img {
+	border: 2px solid #3582c4;
+}
+
+/* Hide last builder row conditional rule relation select */
+
+.acf-fields.-left>.acf-field[data-name=sgg_configurator_attributes]:before {
+	content: unset;
+}
+
+.acf-fields.-left>.acf-field[data-name=sgg_configurator_attributes]>.acf-input,
+.acf-fields.-left>.acf-field[data-name=sgg_configurator_attributes]>.acf-label {
+	display: block;
+	width: 100%;
+	float: none;
+}
+
+.acf-fields.-left>.acf-field[data-name=sgg_configurator_attributes]>.acf-label {
+	padding-bottom: 12px;
+}
+
+.acf-field[data-name=sgg_step_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-select .acf-input,
+.acf-field[data-name=sgg_step_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-link .acf-input {
+	visibility: hidden;
+}
+
+.acf-field[data-name=sgg_step_option_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-select .acf-input,
+.acf-field[data-name=sgg_step_option_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-link .acf-input {
+	visibility: hidden;
+}
+
+.acf-field[data-name=sgg_global_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-select .acf-input,
+.acf-field[data-name=sgg_global_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-link .acf-input {
+	visibility: hidden;
+}
+
+.acf-field[data-name=sgg_global_option_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-select .acf-input,
+.acf-field[data-name=sgg_global_option_conditional_rules] .acf-row:nth-last-of-type(2) .conditional-relation-link .acf-input {
+	visibility: hidden;
+}
+
+@media (min-width: 1200px) {
+	.acf-field-repeater[data-name=sgg_attribute_items] .acf-row .acf-field {
+		display: flex;
+		padding: 0;
+	}
+	.acf-field-repeater[data-name=sgg_attribute_items] .acf-row .acf-field .acf-label {
+		padding: 12px;
+		flex-basis: 200px;
+		background-color: #f6f6f6;
+		margin: 0;
+	}
+	.acf-field-repeater[data-name=sgg_attribute_items] .acf-row .acf-field .acf-input {
+		padding: 12px;
+		flex: 1;
+	}
+}
+
+/* Range */
+
+input[type=range] {
+	accent-color: #007cba;
+}

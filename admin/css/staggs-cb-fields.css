@@ -1,0 +1,208 @@
+
+div.postbox.carbon-box .cf-container__tabs-list .cf-container__tabs-item button {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 12px 20px;
+}
+
+div.postbox.carbon-box .inside label,
+div.postbox.carbon-box .inside input,
+div.postbox.carbon-box .inside .cf-html__content p,
+div.postbox.carbon-box .inside select {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+div.postbox.carbon-box .inside input,
+div.postbox.carbon-box .inside select {
+    padding: 5px 8px;
+}
+
+div.postbox.carbon-box .cf-container--tabbed-vertical {
+	position: relative;
+	align-items: flex-start;
+}
+div.postbox.carbon-box .cf-container__tabs--tabbed-vertical {
+	width: 220px;
+}
+div.postbox.carbon-box .cf-container--tabbed-vertical:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	background-color: #fbfbfc;
+	border-right: 1px solid #c3c4c7;
+	width: 220px;
+}
+div.postbox.carbon-box .cf-container__tabs--tabbed-vertical .cf-container__tabs-list .cf-container__tabs-item button {
+	padding: 16px 20px;
+}
+
+/* Product Item Table */
+
+.cf-container .cf-complex__group-body .cf-complex--grid .cf-field {
+	flex-grow: 0;
+	flex-shrink: 0;
+	overflow: hidden;
+}
+.carbon-box .cf-container__tabs-list .cf-container__tabs-item button {
+	padding: 12px 16px;
+	font-size: 13px;
+	cursor: pointer;
+}
+.carbon-box .cf-container__tabs {
+	border-color: #c3c4c7;
+}
+.carbon-box .cf-container__tabs-item {
+	border-color: #c3c4c7;
+}
+.carbon-box .cf-container__tabs-item--current {
+	border-bottom-color: #fff;
+}
+.carbon-box .cf-container .select2.select2-container {
+	max-width: 100% !important;
+}
+#carbon_fields_container_general_settings .inside .cf-radio__input:checked ~ .cf-radio__label .cf-radio-image__image,
+#carbon_fields_container_general_settings .inside .cf-radio__input:checked ~ .cf-radio__label .cf-radio-image__image,
+#carbon_fields_container_product_configurator_settings .inside .cf-radio__input:checked ~ .cf-radio__label .cf-radio-image__image,
+#carbon_fields_container_product_configurator_settings .inside .cf-radio__input:focus ~ .cf-radio__label .cf-radio-image__image {
+	outline: 2px solid #00a0d2;
+}
+
+@media (max-width: 782px) {
+	#carbon_fields_container_general_settings .cf-radio-image .cf-radio__list-item,
+	#carbon_fields_container_product_configurator_settings .cf-radio-image .cf-radio__list-item {
+		flex: 0 0 33.3%;
+	}
+}
+@media (max-width: 499px) {
+	#carbon_fields_container_general_settings .cf-radio-image .cf-radio__list-item,
+	#carbon_fields_container_product_configurator_settings .cf-radio-image .cf-radio__list-item {
+		flex: 0 0 50%;
+	}
+}
+@media (min-width: 783px) {
+	#carbon_fields_container_general_settings .cf-radio-image .cf-radio__list-item,
+	#carbon_fields_container_product_configurator_settings .cf-radio-image .cf-radio__list-item {
+		flex: none;
+		width: 230px;
+	}
+	.cf-radio-image.radio_image_half_width .cf-radio__list-item {
+		flex: 0 0 50%;
+	}
+}
+
+.postbox.carbon-box.hidden {
+	display: none !important;
+}
+
+.cf-complex__inserter-menu {
+	z-index: 999 !important;
+}
+
+.cf-footer-scripts textarea,
+.cf-header-scripts-custom-css textarea {
+	font-family: monospace !important;
+}
+
+.cf-container .cf-complex__group-body .cf-complex--grid .cf-field {
+	overflow: visible;
+}
+
+/* Hide page parent */
+
+.cf-header-scripts-custom-css textarea {
+	min-height: 350px;
+}
+.container-carbon_fields_container_product_configurator_builder_deprecated .cf-complex__groups .cf-complex__groups .cf-complex__group:last-of-type .conditional-relation-select,
+.carbon_fields_staggs_configurator_builder .cf-complex__groups .base-attribute-display-rules .cf-complex__group:last-of-type .conditional-relation-select,
+.carbon_fields_staggs_configurator_builder .cf-complex__groups .base-attribute-display-rules .cf-complex__group:last-of-type .conditional-relation-link,
+.carbon_fields_staggs_configurator_builder .cf-complex__groups .conditional-attribute-option-rules .cf-complex__group:last-of-type .conditional-relation-select,
+.carbon_fields_staggs_configurator_builder .cf-complex__groups .conditional-attribute-option-rules .cf-complex__group:last-of-type .conditional-relation-link,
+.container-carbon_fields_container_settings .cf-complex__groups .global-attribute-display-rules .cf-complex__group:last-of-type .conditional-relation-select,
+.container-carbon_fields_container_settings .cf-complex__groups .global-attribute-display-rules .cf-complex__group:last-of-type .conditional-relation-link,
+.container-carbon_fields_container_settings .cf-complex__groups .global-attribute-option-rules .cf-complex__group:last-of-type .conditional-relation-select,
+.container-carbon_fields_container_settings .cf-complex__groups .global-attribute-option-rules .cf-complex__group:last-of-type .conditional-relation-link {
+	visibility: hidden;
+}
+
+#carbon_fields_container_configurator_theme_settings .cf-field.hidden-if-theme {
+	display: none;
+}
+
+@media (min-width: 1200px) {
+	div.carbon_fields_staggs_configurator_builder .cf-complex .cf-field:not([hidden]):not([class*='conditional-']),
+	div.carbon_fields_staggs_configurator_builder .cf-field:not([hidden]):not(.cf-complex):not([class*='conditional-']),
+	div.carbon_fields_staggs_attribute_details .cf-complex__group-body .cf-field:not([hidden]),
+	div.carbon_fields_staggs_attribute_details .cf-field:not([hidden]):not(.cf-complex) {
+		position: relative;
+		display: grid;
+		grid-template-areas:
+		"head body"
+		"help body";
+		grid-template-columns: 300px 1fr;
+		grid-template-rows: auto 1fr;
+		padding: 0;
+	}
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-field__head,
+	div.carbon_fields_staggs_configurator_builder .cf-field:not(.cf-complex):not([class*='conditional-']) .cf-field__head,
+	div.carbon_fields_staggs_attribute_details .cf-complex__group-body .cf-field__head,
+	div.carbon_fields_staggs_attribute_details .cf-field:not(.cf-complex) .cf-field__head {
+		padding: 12px 12px 4px;
+		grid-area: head;
+		background-color: #f6f6f6;
+	}
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-field__label,
+	div.carbon_fields_staggs_configurator_builder .cf-field:not(.cf-complex):not([class*='conditional-']) .cf-field__label,
+	div.carbon_fields_staggs_attribute_details .cf-complex__group-body .cf-field__label,
+	div.carbon_fields_staggs_attribute_details .cf-field:not(.cf-complex) .cf-field__label {
+		padding-bottom: 0;
+	}
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-field__help,
+	div.carbon_fields_staggs_configurator_builder .cf-field:not(.cf-complex):not([class*='conditional-']) .cf-field__help,
+	div.carbon_fields_staggs_attribute_details .cf-complex__group-body .cf-field__help,
+	div.carbon_fields_staggs_attribute_details .cf-field:not(.cf-complex) .cf-field__help {
+		grid-area: help;
+		padding: 0 12px 12px;
+		margin: 0;
+		background-color: #f6f6f6;
+	}
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-field__body,
+	div.carbon_fields_staggs_configurator_builder .cf-field:not(.cf-complex):not([class*='conditional-']) .cf-field__body,
+	div.carbon_fields_staggs_attribute_details .cf-complex__group-body .cf-field__body,
+	div.carbon_fields_staggs_attribute_details .cf-field:not(.cf-complex) .cf-field__body {
+		grid-area: body;
+		padding: 12px;
+	}
+
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-complex__group-body .cf-field__help,
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-complex__group-body .cf-field__body,
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-complex__group-body .cf-field__label,
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-complex__group-body .cf-field__head {
+		padding: 0;
+		background-color: #ffff;
+	}
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-complex__group-body .cf-field__help {
+		margin-top: 10px;
+	}
+	div.carbon_fields_staggs_configurator_builder .cf-complex__group-body .cf-complex__group-body .cf-field__head {
+		padding-bottom: 6.5px;
+	}
+}
+
+@media (min-width: 1400px) {
+	div.carbon_fields_staggs_configurator_builder .cf-complex .cf-field:not([hidden]):not([class*='conditional-']),
+	div.carbon_fields_staggs_configurator_builder .cf-field:not([hidden]):not(.cf-complex):not([class*='conditional-']),
+	div.carbon_fields_staggs_attribute_details .cf-complex__group-body .cf-field:not([hidden]),
+	div.carbon_fields_staggs_attribute_details .cf-field:not([hidden]):not(.cf-complex) {
+		position: relative;
+		display: grid;
+		grid-template-areas:
+		"head body"
+		"help body";
+		grid-template-columns: 400px 1fr;
+		grid-template-rows: auto 1fr;
+		padding: 0;
+	}
+}

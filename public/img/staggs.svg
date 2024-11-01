@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stack_icon_151083">
+            <polygon id="Path" points="0 0 37 0 37 37 0 37"></polygon>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="18.5 6 6 12 18.5 18 31 12 18.5 6"></polyline>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="6 19 18.5 25 31 19"></polyline>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="6 25 18.5 31 31 25"></polyline>
+        </g>
+    </g>
+</svg>
